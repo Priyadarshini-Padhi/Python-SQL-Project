@@ -65,3 +65,23 @@ In this project you will learn:
 
    ```bash
    git clone https://github.com/Priyadarshini-Padhi/Python-SQL-Project.git
+
+2. **Install Dependencies:**
+
+   ```bash
+   pip install pandas mysql-connector-python
+(Adjust according to your requirements file if present.)
+
+3. **Configure Database:**
+
+   Create a database and update connection credentials in the Python code.
+
+4. **Run the Python Scripts or Notebook:**
+
+   Execute the notebooks or scripts to connect, query, and process data
+
+
+---
+##📄 License
+
+   This project is licensed under the **MIT License** — see the LICENSE file for details. :contentReference[oaicite:8]{index=8}
