@@ -4,20 +4,18 @@ This repository contains a **Python and SQL integration project** where Python i
 
 ---
 
-## 📂 Repository Contents
+##  Repository Contents
 
 | File / Folder | Description |
 |---------------|-------------|
-| **(Your Python scripts / notebooks)** | Python files or Jupyter notebooks that connect to and query the SQL database. |
-| **(SQL files)** | SQL script files containing queries for database creation, data insertion, and analysis. |
+| **Python_SQL.ipynb** | Python files or Jupyter notebooks that connect to and query the SQL database. |
+| **Python-SQL.sql** | SQL script files containing queries for database creation, data insertion, and analysis. |
 | **README.md** | This file — project overview and instructions. |
 | **LICENSE** | License information (if included). |
 
-*(Note: Adapt the above table once you list actual filenames from the repository.)*
-
 ---
 
-## 📊 Project Overview
+##  Project Overview
 
 This project demonstrates how to use **Python** to interact with an **SQL database** for data retrieval, manipulation, and analysis. It shows how to:
 
@@ -30,15 +28,7 @@ Using Python and SQL together is a common practice in data analytics, data engin
 
 ---
 
-## 🛠 Tools & Technologies
-
-- **Python** — Used for scripting, database connection, and data processing.  
-- **SQL** — Used for database queries, data retrieval, and database management.  
-- **Database Connector** — e.g., `mysql-connector-python`, `sqlite3`, or another driver to connect databases to Python.
-
----
-
-## 📖 Topics Covered
+##  Topics Covered
 
 In this project you will learn:
 
@@ -59,7 +49,7 @@ In this project you will learn:
 
 ---
 
-## 🧾 How to Use
+##  How to Use
 
 1. **Clone the Repository:**
 
@@ -82,6 +72,6 @@ In this project you will learn:
 
 
 ---
-##📄 License
+## License
 
-   This project is licensed under the **MIT License** — see the LICENSE file for details. :contentReference[oaicite:8]{index=8}
+   This project is licensed under the **MIT License** — see the LICENSE file for details. 
